@@ -1,9 +1,9 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "org.example",
+    "group": "org.sic",
     "module": "sic_core",
-    "version": "1.0",
+    "version": "1.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "sic_core-1.0-plain.jar",
-          "url": "sic_core-1.0-plain.jar",
+          "name": "sic_core-1.1-plain.jar",
+          "url": "sic_core-1.1-plain.jar",
           "size": 29398,
-          "sha512": "cb486325e2cd9feb1ab7c98acce966a36bc99f9018c638c0fa22e0c7b87a979419a8d2b99493b04089bea85e775ba9723d8ba383736a788cb2842fba9d535b58",
-          "sha256": "fd9f4fecb062aeec1030e691b1cfd3b51e75009695c1a8538e30c049f5b04330",
-          "sha1": "bcfc3863246358e58850fbf9c5cacabedd843610",
-          "md5": "383f839fb8d79bbb61e2a34ee32e4958"
+          "sha512": "90a73261e24e527bde5e9047a7d16f41fb5cb918c2619cf604fead38d7e31d0e206eec81d4290a4607e6109f14dc01af4e62afcf7bc58fa41b11aa87e5b0b6b2",
+          "sha256": "b5596dcf20ad17bf620ab4ee264ee175921dd580c4c28db505f77abc32cd16ca",
+          "sha1": "847ce1b5e843f496122f6542840dac1d27f40775",
+          "md5": "a739af9184019e11ff285f323ae27c27"
         }
       ]
     },
@@ -75,13 +75,13 @@
       ],
       "files": [
         {
-          "name": "sic_core-1.0-plain.jar",
-          "url": "sic_core-1.0-plain.jar",
+          "name": "sic_core-1.1-plain.jar",
+          "url": "sic_core-1.1-plain.jar",
           "size": 29398,
-          "sha512": "cb486325e2cd9feb1ab7c98acce966a36bc99f9018c638c0fa22e0c7b87a979419a8d2b99493b04089bea85e775ba9723d8ba383736a788cb2842fba9d535b58",
-          "sha256": "fd9f4fecb062aeec1030e691b1cfd3b51e75009695c1a8538e30c049f5b04330",
-          "sha1": "bcfc3863246358e58850fbf9c5cacabedd843610",
-          "md5": "383f839fb8d79bbb61e2a34ee32e4958"
+          "sha512": "90a73261e24e527bde5e9047a7d16f41fb5cb918c2619cf604fead38d7e31d0e206eec81d4290a4607e6109f14dc01af4e62afcf7bc58fa41b11aa87e5b0b6b2",
+          "sha256": "b5596dcf20ad17bf620ab4ee264ee175921dd580c4c28db505f77abc32cd16ca",
+          "sha1": "847ce1b5e843f496122f6542840dac1d27f40775",
+          "md5": "a739af9184019e11ff285f323ae27c27"
         }
       ]
     }
