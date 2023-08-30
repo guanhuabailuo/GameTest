@@ -3,7 +3,7 @@
   "component": {
     "group": "org.sic",
     "module": "sic_core",
-    "version": "1.1",
+    "version": "1.2",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "sic_core-1.1-plain.jar",
-          "url": "sic_core-1.1-plain.jar",
+          "name": "sic_core-1.2-plain.jar",
+          "url": "sic_core-1.2-plain.jar",
           "size": 29398,
-          "sha512": "f13eb38188f014cbabf8d75d09e792a87b07805f1ded2b407ef60a80c62c9febd15553f75181b5b055893dd684a35711510f983fb44b72b836d8e4822ab1859e",
-          "sha256": "9d9a8dcc7ab6af0ac6d7f1298ed2f075bdf83fe9f3713e890272c9f8b4991b91",
-          "sha1": "2ae8ff34f0039403cb2e2151a1322114d40d53d1",
-          "md5": "0c21434ac8d46ffeee287150ff233535"
+          "sha512": "3dda4366f3ff33110e37b83ce2045e68e185a5c847031d569c54a0e9ef7ed9ba2f47b8f666853206d15272edca563d0a2b1760f1600b1cedd583993a70997956",
+          "sha256": "1341a4230828c3a3c27b631b699339a7990cb16227b4896e99d7ebdc99cb8eda",
+          "sha1": "9ba366eb3508a6a2f076b9220d09309f2d8447a1",
+          "md5": "e0c3b5e1153124cfa062d72a1e3fea92"
         }
       ]
     },
@@ -75,13 +75,13 @@
       ],
       "files": [
         {
-          "name": "sic_core-1.1-plain.jar",
-          "url": "sic_core-1.1-plain.jar",
+          "name": "sic_core-1.2-plain.jar",
+          "url": "sic_core-1.2-plain.jar",
           "size": 29398,
-          "sha512": "f13eb38188f014cbabf8d75d09e792a87b07805f1ded2b407ef60a80c62c9febd15553f75181b5b055893dd684a35711510f983fb44b72b836d8e4822ab1859e",
-          "sha256": "9d9a8dcc7ab6af0ac6d7f1298ed2f075bdf83fe9f3713e890272c9f8b4991b91",
-          "sha1": "2ae8ff34f0039403cb2e2151a1322114d40d53d1",
-          "md5": "0c21434ac8d46ffeee287150ff233535"
+          "sha512": "3dda4366f3ff33110e37b83ce2045e68e185a5c847031d569c54a0e9ef7ed9ba2f47b8f666853206d15272edca563d0a2b1760f1600b1cedd583993a70997956",
+          "sha256": "1341a4230828c3a3c27b631b699339a7990cb16227b4896e99d7ebdc99cb8eda",
+          "sha1": "9ba366eb3508a6a2f076b9220d09309f2d8447a1",
+          "md5": "e0c3b5e1153124cfa062d72a1e3fea92"
         }
       ]
     }
