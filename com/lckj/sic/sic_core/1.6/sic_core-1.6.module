@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.lckj.sic",
+    "module": "sic_core",
+    "version": "1.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "sic_core-1.6-plain.jar",
+          "url": "sic_core-1.6-plain.jar",
+          "size": 29398,
+          "sha512": "f84775fc805faee9d67e7ab1bcca7d3e9d8dde89315f20f585e80e6f13d0462fff0c76f345cd947b5a0ae3764057a7147f9055b3fed640f17f6802f6dfef24d9",
+          "sha256": "bfb151d97926222178f0f875a9b48467d2b6fd667896a340168a5896bb5ba8e5",
+          "sha1": "3f5c0242519f4183d6c04b5ed154c0f7ee03747a",
+          "md5": "eea95d3ea7dbd68f907121db58402f31"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-aop"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-validation"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-configuration-processor"
+        },
+        {
+          "group": "org.projectlombok",
+          "module": "lombok"
+        },
+        {
+          "group": "cn.hutool",
+          "module": "hutool-all"
+        },
+        {
+          "group": "com.alibaba",
+          "module": "fastjson",
+          "version": {
+            "requires": "1.2.83"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sic_core-1.6-plain.jar",
+          "url": "sic_core-1.6-plain.jar",
+          "size": 29398,
+          "sha512": "f84775fc805faee9d67e7ab1bcca7d3e9d8dde89315f20f585e80e6f13d0462fff0c76f345cd947b5a0ae3764057a7147f9055b3fed640f17f6802f6dfef24d9",
+          "sha256": "bfb151d97926222178f0f875a9b48467d2b6fd667896a340168a5896bb5ba8e5",
+          "sha1": "3f5c0242519f4183d6c04b5ed154c0f7ee03747a",
+          "md5": "eea95d3ea7dbd68f907121db58402f31"
+        }
+      ]
+    }
+  ]
+}
